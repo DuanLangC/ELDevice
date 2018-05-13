@@ -1,1 +1,4 @@
 # ELDevice
+
+
+pod 'ELDevice'
