@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "ELDevice"
   s.version      = "0.0.1"
-  s.summary      = ""
+  s.summary      = "a tool for detecting the current device"
   s.homepage     = "https://github.com/DuanLangC/ELDevice"
   s.license      = "MIT"
   s.author             = { "Eldis" => "duanlangc@gmail.com" }
